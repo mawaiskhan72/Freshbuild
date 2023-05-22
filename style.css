@@ -1,0 +1,1075 @@
+
+
+.Header{
+  display: flex;
+  justify-content: space-between;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.House{
+  padding-top: 15px;
+}
+
+.code{
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+}
+
+.Parent-div2{
+background: radial-gradient(46.35% 478.71% at 50% 62.85%, #E3E3E3 0%, #D7FDF4 73.4%) ;
+position: relative !important;
+}
+
+.Hero-House{
+  position: absolute;
+  top: 25px;
+  width: 280px;
+}
+
+.Div{
+  padding-left: 50px;
+}
+
+.H1{
+padding-top: 60px;
+font-style: normal;
+font-weight: 800;
+font-size: 42px;
+line-height: 100%;
+text-align: center;
+color: #3E8180;
+}
+
+.P1{
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26px;
+  align-items: center;
+  text-align: center;
+}
+
+.freshbuilds{
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 33px;
+color: #322C4E;
+text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.Button{
+width:150px ;
+height: 40px;
+margin-left: 560px;
+margin-bottom: 40px;
+background: #E87F3F;
+border-radius: 5px;
+border: none;
+color: white;
+}
+
+
+.P2{
+font-weight: 600;
+font-size: 26px;
+line-height: 150%;
+text-align: center;
+letter-spacing: 0.0041em;
+}
+
+.span{
+  color: 
+  #3E8180;
+  font-weight: 400;
+}
+
+.Corner{
+  display: flex;
+  justify-content: end;
+}
+
+.Padding{
+  padding-top: 15px;
+  padding-right: 60px;
+}
+
+.svg-1{
+  display: flex;
+  box-shadow: 0px 6px 40px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+  gap: 10px;
+}
+
+.Square-pic{
+width: 40px;
+padding-top: 15px;
+padding-left: 15px;
+padding-bottom: 15px;
+}
+
+.Square-pargraph{
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+color: #322C4E;
+padding-right: 40px;
+}
+
+.grid-container1{
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 3fr 3fr 3fr;
+  gap: 20px;
+  padding-left: 140px;
+}
+
+.Parent-div3{
+background: #FFFFFF;
+box-shadow: 0px 4px 44px rgba(14, 21, 50, 0.1);
+border-radius: 10px;
+}
+
+.Dollar-img{
+  color:#534884;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+}
+
+.Dollar-Title{
+font-size: 20px;
+padding-left: 30px;
+border-radius: 10px;
+color: #5CCAAB;
+}
+
+.Dollar-paragraph{
+padding-left: 30px;
+padding-right: 30px;
+padding-bottom: 40px;
+font-weight: 400;
+font-size: 16px;      
+line-height: 150%;
+letter-spacing: 0.0041em;
+color: #0E1532;
+}
+
+.Parent-div4{
+  background: #FFFFFF;
+  box-shadow: 0px 4px 44px rgba(14, 21, 50, 0.1);
+  border-radius: 10px;  
+}
+
+.Diamond-img{
+  color:#534884;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+}
+
+.Daimond-Title{
+  font-size: 20px;
+  padding-left: 30px;
+  border-radius: 10px;
+  color: #5CCAAB; 
+}
+
+.Daimond-paragraph{
+padding-left: 30px;
+padding-right: 30px;
+padding-bottom: 40px;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.0041em;
+color: #0E1532;
+}
+
+.Value-houses{
+  padding-top: 15px;
+  padding-left: 80px;
+}
+
+.Main-parent2{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding-left: 160px;
+}
+
+.Light-Small-house{
+  display: flex;
+  gap: 20px;
+  padding-right: 130px;
+}
+
+.Parent-div5{
+  background: #FFFFFF;
+  box-shadow: 0px 4px 44px rgba(14, 21, 50, 0.1);
+  border-radius: 10px; 
+}
+
+.Light{
+  color:#534884;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+}
+
+.Light-Title{
+  font-size: 20px;
+  padding-left: 30px;
+  border-radius: 10px;
+  color: #5CCAAB; 
+}
+
+.Light-paragraph{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.0041em;
+  color: #0E1532; 
+}
+
+.Parent-div5{
+  background: #FFFFFF;
+  box-shadow: 0px 4px 44px rgba(14, 21, 50, 0.1);
+  border-radius: 10px;
+}
+
+.Small-house{
+  color:#534884;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+}
+
+.Small-house-title{
+  font-size: 20px;
+  padding-left: 30px;
+  border-radius: 10px;
+  color: #5CCAAB; 
+}
+
+.Small-house-paragrah{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.0041em;
+  color: #0E1532;
+}
+
+.Main-parent3{
+  display: flex;
+  justify-content: center;
+  padding-top: 160px;
+  padding-left: 20px;
+  gap: 100px;
+}
+
+.New-phone{
+font-weight: 500;
+font-size: 26px;
+line-height: 150%;
+letter-spacing: 0.0041em;
+color: #0E1532;
+}
+
+.Freshbuilds1{
+color: #3E8180;
+}
+
+.New-phone-paragraph{
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.0041em;
+color: #0E1532;
+padding-bottom: 30px;
+}
+
+.Button1{
+  width:150px ;
+  height: 40px;
+  background: #E87F3F;
+  border-radius: 5px;
+  border: none;
+  color: white; 
+}
+
+.Listen{
+width: auto;
+height: auto;
+}
+
+.Schools{
+  color: #9B9B9B;
+  padding-bottom: 10px;
+}
+
+.b-{
+  width: 30px;
+}
+
+.search_houses{
+position: relative;
+padding-left: 130px;
+bottom: 80px;
+}
+
+/* Main parent-4 */
+.Main-parent4{
+  display: flex;
+  justify-content: center;
+  gap: 35px;
+}
+
+.Parent-div6{
+background: #FFFFFF;
+box-shadow: 0px 3px 30px rgba(45, 39, 71, 0.1);
+border-radius: 10px;
+width: 500px;
+}
+
+.Stars1{
+  padding-top: 30px;
+  padding-left: 25px;
+}
+
+.Stars-P1{
+  padding-left:25px ;
+}
+
+.Stars-paragraph1{
+  font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+color: #322C4E;
+}
+
+.Stars-Title1{
+  font-weight: 700;
+font-size: 16px;
+line-height: 21px;
+color: #3E8180;
+}
+
+.New1{
+  font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+color: #322C4E;
+padding-bottom: 20px;
+}
+
+
+.Parent-div7{
+  background: #FFFFFF;
+  box-shadow: 0px 3px 30px rgba(45, 39, 71, 0.1);
+  border-radius: 10px;
+  width: 500px;
+  }
+  
+  .Stars2{
+    padding-top: 30px;
+    padding-left: 25px;
+  }
+  
+  .Stars-P2{
+    padding-left:25px ;
+  }
+  
+  .Stars-paragraph2{
+    font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: #322C4E;
+  }
+  
+  .Stars-Title2{
+    font-weight: 700;
+  font-size: 16px;
+  line-height: 21px;
+  color: #3E8180;
+  }
+  
+  .New2{
+    font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  color: #322C4E;
+  padding-bottom:20px;
+  }
+
+   .paragrah-center{
+padding-top: 30px;
+font-weight: 500;
+font-size: 26px;
+line-height: 150%;
+text-align: center;
+letter-spacing: 0.0041em;
+color: #000000;
+  }
+
+  .Span1{
+    color:#3E8180;
+  }
+
+  .grid-container2{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+  }
+
+.Box{
+display: flex;
+justify-content: center;
+gap: 10px;
+width: 200px;
+height: 50px;
+background: #FFFFFF;
+box-shadow: 0px 3px 30px rgba(45, 39, 71, 0.1);
+border-radius: 10px;
+}
+
+.Box-pic1{
+  padding-top: 10px ;
+}
+  
+  .Box-pic2{
+    padding-top: 10px ;
+  }
+
+  .Box-pic3{
+    padding-top: 10px ;
+  }
+
+  .Box-pic4{
+    padding-top: 10px;
+  }
+  
+  .Box-pic5{
+    padding-top: 10px;
+  }
+
+  .Box-pic6{
+    padding-top: 10px;
+  }
+
+  .Box-pic7{
+    padding-top: 10px;
+  }
+
+  .Box-pic8{
+    padding-top: 10px;
+  }
+
+  .Button2{
+    width:150px ;
+    height: 40px;
+    margin-top: 25px;
+    margin-left: 590px;
+    margin-bottom: 40px;
+    background: #E87F3F;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    }
+
+.Display{
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+}
+
+    .Span2{
+      color:#3E8180;
+    }
+
+    .Lines{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 50px;
+    }
+
+    .Faq-houses{
+      background: radial-gradient(44.04% 44.04% at 45.82% 50%, rgba(92, 202, 171, 0.25) 0%, rgba(92, 202, 171, 0) 100%);
+    }
+
+   
+
+    .End{
+      background: #322C4E;
+      padding-top: 50px;
+    }
+
+    .Mid-end{
+    display: flex;
+    justify-content: center;
+    }
+
+    .Contact{
+      color: white;
+      font-size: 16px;
+      line-height: 21px;
+    }
+
+    .code1{
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 21px;
+      color: #FFFFFF;
+    }
+
+    .Last-line{
+      display: flex;
+      color: white;
+      padding-top: 40px;
+      padding-left: 100px;
+      gap: 25px;
+    }
+
+    .End-house{
+      display: flex;
+      justify-content: end;
+      padding-right: 100px;
+      position: relative;
+      bottom: 45px;
+    }
+body{
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+@media only screen and (max-width: 1250px){
+    .Button{
+      margin-left: 500px;
+    }
+
+    .Button2{
+      margin-left: 550px;
+    }
+}
+
+@media only screen and (max-width: 1100px){
+    .Button{
+      margin-left: 430px;
+    }
+
+    .Button2{
+      margin-left: 470px;
+    }
+}
+
+@media only screen and (max-width: 1015px){
+    .Button{
+      margin-left: 400px;
+    }
+
+    .Button2{
+      margin-left: 440px;
+    }
+}
+
+@media only screen and (max-width: 900px){
+  .Hero-House{
+    display: none;
+  }
+
+  .Button{
+    margin-left: 360px;
+  }
+
+  .grid-container1{
+    padding-right:150px;
+  }
+  
+  .Main-parent2{
+    padding-left: 100px;
+  }
+
+  .Button2{
+    margin-left: 380px;
+  }
+
+  .grid-container1{
+    gap: 20px;
+    
+  }
+
+  .Parent-div3{
+    width: 325px;
+  }
+
+  .Parent-div4{
+    width: 325px;
+  }
+
+  .Value-houses{
+   display: none;
+  }
+
+  .Dollar-paragraph{
+    font-size: 15px;      
+    line-height: 160%;
+    }
+
+    .Daimond-paragraph{
+      font-size: 15px;      
+      line-height: 160%;
+      }
+
+      .Main-parent3{
+        gap: 80px;
+      }
+
+      .Main-parent4{
+        gap: 20px;
+      }
+
+      .Display{
+        gap: 60px;
+        padding-left: 20px;
+      }
+
+      .Last-line{
+        padding-left: 40px;
+        gap: 10px;
+      }
+
+      .End-house{
+        padding-right: 70px;
+      }
+
+      .End{
+        padding-top: 30px;
+      }
+
+      .Mid-end{
+        padding-top: 30PX;
+        }  
+}
+
+@media only screen and (max-width: 860px){
+  .grid-container2{
+    grid-template-columns: auto auto  ;
+    gap: 20px;
+  }
+
+  .Button2{
+    margin-left: 360px;
+  }
+
+  .Parent-div6{
+    width: 400px;
+    }
+
+    .Parent-div7{
+      width: 400px;
+      }
+}
+
+@media only screen and (max-width: 700px){
+   .H1{
+    font-size: 38px;
+   }
+
+   .Button{
+    margin-left: 265px;
+   }
+
+   .Padding{
+    margin-right: 150px;
+   }
+
+  
+   .Parent-div3{
+    width: 250px;
+   }
+
+   .Dollar-paragraph{
+    font-size: 14px;      
+    line-height: 130%;
+    }
+
+    .Parent-div4{
+      width: 250px;
+     }
+
+     .Daimond-paragraph{
+      font-size: 14px;      
+    line-height: 130%;
+     }
+
+
+     .Parent-div5{
+      width: 250px;
+     }
+
+    .Light-paragraph{
+      font-size: 14px;      
+    line-height: 130%;
+    }
+
+     .Parent-div6{
+      width: 250px;
+     }
+
+     .Small-house-paragrah{
+
+    font-size: 14px;      
+    line-height: 130%;
+}
+
+.Main-parent3{
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.Main-parent4{
+  flex-direction:column;
+  align-items: center;
+}
+
+.Parent-div6{
+  width: 400px;
+}
+
+.paragrah-center{
+  font-size: 20px;
+}
+
+.Button2{
+  margin-left: 280px;
+}
+
+.Faq-houses{
+  display: none;
+}
+
+}
+
+@media only screen and (max-width: 600px){
+  .H1{
+    font-size: 30px;
+  }
+
+  .P1{
+    font-size: 15px;
+  }
+
+  .freshbuilds{
+    font-size: 20px;
+  }
+
+  .Button{ 
+    margin-left: 235px;
+  }
+
+ .Padding{
+  margin-right: 90px;
+ }
+
+ .Button2{
+  margin-left: 235px;
+ }
+
+ .End-house{
+  display: none;
+ }
+}
+
+@media only screen and (max-width: 550px){
+ .Header{
+  padding: 0;
+  justify-content: center;
+  gap: 210px;
+ }
+
+ .H1{
+  font-size: 25px;
+ }
+
+ .freshbuilds{
+  font-size: 18px;
+}
+
+.Button{
+  margin-left: 205px;
+  width:140px ;
+  height: 30px;
+}
+
+.Padding{
+margin-right: 70px;
+}
+
+.grid-container1{
+  grid-template-columns: auto;
+}
+
+.Light-Small-house{
+flex-direction: column; 
+}
+
+.Button2{
+  margin-left: 205px;
+  width:140px ;
+  height: 30px;
+}
+
+.Listen{
+  width: 300px;
+}
+
+.Lines{
+  gap: 20px;
+  width: 90%;
+}
+}
+
+@media only screen and (max-width: 450px){
+  .Header{
+    gap: 120px;
+  }
+
+  .H1{
+    font-size: 20px;
+  }
+
+  .P1{
+    font-size: 12px;
+  }
+
+  .Button{
+   margin-left: 170px;
+  }
+
+  .Padding{
+    margin-right: 10px;
+  }
+
+  .P2{
+    font-size: 18px;
+  }
+
+  .New-phone{
+    font-size: 20px;
+  }
+
+  .New-phone-paragraph{
+    font-size: 15px;
+  }
+
+  .Button1{
+      width:140px ;
+      height: 30px;
+  }
+
+  .Listen{
+    width: 240px;
+  }
+
+  .Parent-div6{
+    width: 300px;
+  }
+
+  .Parent-div7{
+    width: 300px;
+  }
+
+  .paragrah-center{
+    font-size: 15px;
+  }
+
+  .Button2{
+    margin-left: 165px;
+  }
+
+ .End{
+    padding-top: 30px;
+  }
+
+  .Contact{
+    font-size: 13px;
+  }
+
+  .code1{
+    font-size: 13px;
+  }
+
+
+  .grid-container2{
+    grid-template-columns: auto;
+  }
+}
+
+@media only screen and (max-width: 350px){
+  .Header{
+    gap: 50px;
+  }
+
+  .code{
+   font-size: 14px;
+  }
+
+  .House{
+    width: 150px;
+  }
+  
+  .H1{
+    font-size: 18px;
+  }
+
+  .P1{
+    font-size: 12px;
+  }
+
+  .Padding{
+    display: none;
+  }
+
+  .Button{
+    width:140px ;
+    height: 30px;
+    margin-left: 120px;
+  }
+
+  .P2{
+    padding-left: 20px;
+  }
+
+  .grid-container1{
+    margin-left:  40px;
+  }
+
+  .Light-Small-house{
+    margin-left:  40px;
+  }
+
+  .Button1{
+    width:140px ;
+    height: 30px;
+  }
+
+  .search_houses{
+    position: relative;
+    right: 100px;
+  }
+
+  .Button2{
+    margin-left: 110px;
+  }
+
+  .End{
+    width: 340px;
+    padding-top: 10px;
+  }
+
+  .Last-line{
+   font-size: 10px;
+   padding-left: 15px;
+  }
+}
+
+@media only screen and (max-width: 280px){
+    .Header{
+      gap: 10px;
+    }
+
+    .code{
+      font-size: 13px;
+    }
+
+    .H1{
+      font-size: 15px;
+    }
+
+    .P1{
+     font-size: 13px;
+    }
+
+    .P2{
+      font-size: 15px;
+      padding-right: 10px;
+    }
+
+    .grid-container1{
+      padding-left: 105px;
+    }
+
+    .Main-parent3{
+      padding-left: 25px;
+    }
+
+      .Listen{
+        width: 200px;
+      }
+
+      .search_houses{
+        margin-top: 50px;
+        margin-right: 20px;
+      }
+
+      .Main-parent4{
+        padding-left: 70px;
+      }
+
+      .paragrah-center{
+        font-size: 14px;
+        margin-left: 50px;
+      }
+
+      .grid-container2{
+        margin-left: 60px;
+      }
+
+      .Button{
+        width:150px ;
+        height: 30px;
+        margin-left: 80px;
+      }
+
+      .Display{
+        margin-left: 20px;
+        font-size: 13px;
+      }
+
+      .Parent-div7{
+        padding-right: 15px;
+      }
+
+      .search_houses{
+        display: none;
+      }
+
+      .Button1{
+        margin-left: 50px;
+      }
+}
+
+
+  
+
+
+
+
+
+
+
+
+ 
